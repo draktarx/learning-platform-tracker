@@ -1,0 +1,13 @@
+package tracker.input;
+
+public enum MenuAction {
+    NOTIFY_ACTION,
+    STATS_ACTION,
+    SHOW_STUDENT_POINTS_ACTION,
+    ADD_STUDENTS_ACTION,
+    ADD_POINTS_ACTION,
+    lIST_STUDENTS_ACTION,
+    NO_ACTION,
+    EXIT_ACTION
+
+}

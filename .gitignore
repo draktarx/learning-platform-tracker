@@ -1,0 +1,38 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Learning Progress Tracker (Java)/*
+!/Learning Progress Tracker (Java)/task/
+/Learning Progress Tracker (Java)/task/*
+!/Learning Progress Tracker (Java)/task/src
+!/Learning Progress Tracker (Java)/task/build.gradle
+!/Learning Progress Tracker (Java)/task/test
+
+# Project exclude paths
+/Topics/ArrayList/Find the nearest number/out/
+/Topics/ArrayList/Find the nearest number/out/production/classes/
+/Topics/Comparable/Addresses/out/
+/Topics/Comparable/Addresses/out/production/classes/
+/Topics/Overloading/Processing integers and floats differently/out/
+/Topics/Overloading/Processing integers and floats differently/out/production/classes/
+/Topics/Parameterized test/Palindromes/out/
+/Topics/Parameterized test/Palindromes/out/production/classes/
+/Topics/Stack/Html Parser/out/
+/Topics/Stack/Html Parser/out/production/classes/
+/Topics/Stack/Which brackets are balanced/out/
+/Topics/Stack/Which brackets are balanced/out/production/classes/
+/Topics/The List interface/Filtering the list/out/
+/Topics/The List interface/Filtering the list/out/production/classes/
+/Topics/The List interface/Split a list into sublists/out/
+/Topics/The List interface/Split a list into sublists/out/production/classes/
+/Topics/The Set interface/Symmetric difference/out/
+/Topics/The Set interface/Symmetric difference/out/production/classes/
